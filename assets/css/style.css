@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #303030;
+  color: white;
+}
+.main {
+  display: flex;
+}
+.contacto {
+  width: 25%;
+  border: 1px solid gray;
+}
+.new-chat {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.submain {
+  width: 69%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo img {
+  width: 250px;
+  border-radius: 10px;
+}
