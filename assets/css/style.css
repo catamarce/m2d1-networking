@@ -9,7 +9,31 @@ body {
 }
 .contacto {
   width: 20%;
+  min-width: 236px;
   border: 1px solid gray;
+}
+.user-home {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 5px;
+}
+.user {
+  width: 60%;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px 0;
+}
+.home-img img {
+  width: 35px;
+  border-radius: 50%;
+}
+.home-state p {
+  margin: 0;
+}
+.icon {width: 15%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 .new-chat {
   display: flex;
@@ -17,6 +41,7 @@ body {
   align-items: center;
   padding: 20px;
   border-bottom: 1px solid gray;
+  border-top: 1px solid gray;
 }
 button {
   width: 80%;
