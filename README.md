@@ -4,3 +4,5 @@ Modulo 2 - Desafio 1
 
 ### Networking
 Layout de una pagina de una red social en cual se utiliza Flexbox para la distribucion de todos los elementos de ella.
+
+![screenshot](https://github.com/rimardev/m2d1-networking/blob/main/assets/img/screenshot-page.jpg)
